@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Laos Deposit Process</title>
+  <meta name="robots" content="noindex,nofollow">
+</head>
+<body>
+  <h1>Laos Deposit Process</h1>
+
+  <p>1. Click “Deposit”.</p>
+
+  <p>2. Select the account you wish to deposit into.</p>
+
+  <p>3. Enter the deposit amount.</p>
+  <p><strong>Note:</strong> The minimum deposit is $50. The system will automatically calculate and display the equivalent amount after entering the value in Lao Kip.</p>
+
+  <p>4. Scan the QR code or transfer via bank account. Once completed, please provide the following information in the system:</p>
+  <ul>
+    <li>4.1 Enter the sender’s bank account number (the account used for the transfer).</li>
+    <li>4.2 Select the transfer date according to the payment slip.</li>
+    <li>4.3 Upload the transfer slip to the system.</li>
+  </ul>
+
+  <p><strong>Important:</strong> The bank account number and transfer date provided must match the details shown on the uploaded payment slip.</p>
+</body>
+</html>
